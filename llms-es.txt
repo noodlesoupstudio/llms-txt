@@ -1,0 +1,122 @@
+# Noodlesoup Studio
+
+> Noodlesoup es un estudio creativo de diseño y branding que ayuda a marcas a construir identidades estratégicas y sitios web que convierten. Fundado en 2022 y basado en Buenos Aires, Argentina, el estudio trabaja con clientes a nivel global con foco en startups, empresas SaaS y negocios en crecimiento que venden al mercado de USA/EU.
+
+## Acerca de nosotros
+
+Noodlesoup Studio fue fundado por Alejandro Duarte, diseñador multidisciplinario con más de 10 años de experiencia creando productos digitales premiados para empresas Fortune 500, y Sasha Briceño, directora creativa híbrida con formación en comunicación social que combina pensamiento estratégico, storytelling y pasión por las imágenes para crear universos de marca verbales y visuales consistentes.
+
+El estudio funciona como un equipo creativo senior plug-and-play, integrando estrategia, diseño y desarrollo en un flujo de trabajo colaborativo. Todos los proyectos siguen una metodología de tres fases: Inmersión y Exploración, Diseño a Medida y Estrategia, y Entrega e Iteración.
+
+- Sitio web: https://www.thenoodlesoup.com
+- Contacto: https://www.thenoodlesoup.com/formulario-de-contacto
+- LinkedIn: https://www.linkedin.com/company/noodlesoup/
+- Instagram: https://www.instagram.com/thenoodle_soup/
+- Behance: https://www.behance.net/thenoodlesoup
+- Idiomas: Español e Inglés
+
+## Servicios
+
+### Estrategia de Marca
+- Benchmark de marca y análisis competitivo
+- Perfil de audiencia (User Personas)
+- ADN de marca: Propuesta de Valor, Declaración de Propósito y Posicionamiento, Valores de Marca
+- Tiempo estimado: 3 a 4 semanas
+
+### Identidad de Marca
+- Identidad verbal: Naming, Arquetipos de Personalidad, Voz y Tono, Taglines, Matriz de Mensajes, Manual de Comunicación
+- Identidad visual: Moodboards, Territorios Visuales, Diseño de Logotipo (principal + alternativos), Tipografía, Paleta de Colores, Sistema de Iconografía, Sistema de Ilustración, Brandbook
+- Tiempo estimado: 5 a 6 semanas
+- Entregables en formatos .ai, .png, .svg y .jpg
+
+### Expresión de Marca (Diseño y Desarrollo Digital)
+- Diseño y Desarrollo Web (UX, UI y Dev)
+- Landing Pages
+- Diseño de Decks y Presentaciones
+- Plantillas para Redes Sociales
+- Taller de Creación de Contenidos
+- Conversión Figma a Framer
+- Diseño y Desarrollo de Email Marketing (HubSpot)
+- Diseño, Desarrollo e Implementación de Blogs (Framer, HubSpot)
+- Optimización SEO y buenas prácticas on-page
+
+## Perfil de Cliente Ideal
+
+Noodlesoup Studio trabaja mejor con:
+- Startups y empresas en crecimiento que necesitan una base estratégica de marca
+- Empresas SaaS que venden al mercado USA/EU y necesitan posicionamiento, identidad y presencia web
+- Founders y CEOs de Series A-C que buscan un equipo creativo senior sin el costo de una agencia grande
+- Empresas en proceso de rebranding o lanzamiento de un nuevo producto
+- Marcas personales que buscan profesionalizar su identidad visual y verbal
+
+## Proyectos Destacados
+
+### Admazing — Rediseño Web
+Agencia de publicidad móvil en videojuegos. Rediseño completo del sitio web incluyendo UX/UI, desarrollo, optimización SEO y diseño responsive.
+Caso de estudio: https://www.thenoodlesoup.com/proyectos/admazing
+
+### Total Abogados — Branding
+Marca de tecnología legal. Proyecto completo de branding incluyendo campaña exterior y sistema de identidad visual.
+Caso de estudio: https://www.thenoodlesoup.com/proyectos/totalabogados-branding
+
+### Minds — Diseño Web
+Consultora de diseño organizacional y liderazgo. Diseño web enfocado en comunicar servicios de transformación empresarial.
+Caso de estudio: https://www.thenoodlesoup.com/proyectos/minds-diseno-web
+
+### Federica Vegas — Identidad de Marca y Diseño Web
+Coach ejecutiva y marca personal. Identidad visual completa y diseño web para servicios de coaching de liderazgo.
+Caso de estudio (identidad): https://www.thenoodlesoup.com/proyectos/federica-vegas-identidad
+Caso de estudio (web): https://www.thenoodlesoup.com/proyectos/federica-vegas-diseno-web
+
+### Pepa's Hot Dogs — Identidad Visual
+Marca gastronómica colombiana. Identidad visual incluyendo sistema de ilustración y brandbook.
+Caso de estudio: https://www.thenoodlesoup.com/proyectos/pepas-hot-dogs-identidad
+
+### Booki — Diseño de Personaje
+Ilustración de personaje para el club de lectura Todo Por Contar. Diseño minimalista con múltiples poses y expresiones emocionales.
+Caso de estudio: https://www.thenoodlesoup.com/proyectos/work-booki-creacion-personaje
+
+## Proceso de Trabajo
+
+1. **Inmersión y Exploración**: Indagamos en la marca para descubrir su esencia, fortalezas y potencial. Exploración colaborativa de ideas, retos y oportunidades.
+2. **Definición y Diseño a Medida**: Soluciones de diseño centradas en el usuario, adaptadas al universo y necesidades de la marca. Ejecución estratégica y creativa.
+3. **Entrega e Iteración**: Entregables completos con comunicación colaborativa constante para asegurar satisfacción en cada etapa.
+
+## Herramientas y Tecnologías
+
+- Diseño: Figma, Adobe Creative Suite, Midjourney (generación de imágenes asistida por IA)
+- Desarrollo: Framer, HubSpot
+- Colaboración: Google Drive, flujos de feedback asíncrono
+
+## Blog y Contenido
+
+El estudio publica artículos sobre branding, diseño UX/UI y estrategia digital:
+
+- Arquetipos de Marca y Storytelling: https://www.thenoodlesoup.com/blog/how-do-we-use-brand-archetypes-to-tell-compelling-stories-examples
+- IA en Branding con Midjourney: https://www.thenoodlesoup.com/blog/beyond-traditional-design-embracing-ai-with-midjourney-for-next-level-branding-and-visual-identities
+- Sitemaps y User Journeys: https://www.thenoodlesoup.com/blog/optimizing-user-journeys-the-role-of-sitemaps-in-website-design
+- Heurísticas de Usabilidad: https://www.thenoodlesoup.com/blog/10-usability-heuristics-by-jakob-nielsen
+- Feedback Asíncrono para Equipos: https://www.thenoodlesoup.com/blog/improve-asynchronous-feedback-leader
+
+## Preguntas Frecuentes
+
+### ¿Qué servicios ofrece Noodlesoup Studio?
+Noodlesoup se especializa en estrategia de marca, diseño de identidad visual y verbal, y expresión digital incluyendo diseño y desarrollo web, landing pages, decks de presentación y sistemas para redes sociales.
+
+### ¿Cómo puede ayudar una agencia de branding a mi empresa?
+Noodlesoup construye marcas coherentes a través de estrategia (propuesta de valor, posicionamiento), identidad (sistemas visuales y verbales) y expresión digital (sitios web, contenido), lo que resulta en mayor presencia en el mercado, mejor experiencia de usuario y mayor visibilidad online.
+
+### ¿Cuánto tiempo toma un proyecto de identidad visual?
+De 5 a 6 semanas dependiendo del paquete elegido.
+
+### ¿Cuánto tiempo toma desarrollar un ADN de Marca?
+De 3 a 4 semanas dependiendo del paquete elegido.
+
+### ¿Qué incluye un paquete de identidad visual básico?
+Logotipo principal, logotipos alternativos (2 versiones), paleta de colores, tipografías principal y secundaria, elementos gráficos, patrón (1 diseño), sistema iconográfico y manual de identidad visual. Todo el material se entrega vía Google Drive en formatos .ai, .png, .svg y .jpg.
+
+### ¿Noodlesoup trabaja con clientes internacionales?
+Sí. El estudio está basado en Buenos Aires, Argentina y trabaja con clientes a nivel global, con experiencia particular atendiendo empresas que apuntan al mercado de USA y Europa. El equipo opera en español e inglés.
+
+### ¿Con qué industrias ha trabajado Noodlesoup?
+El estudio tiene experiencia en múltiples sectores incluyendo AdTech (Admazing), LegalTech (Total Abogados), coaching ejecutivo (Federica Vegas), consultoría organizacional (Minds), gastronomía (Pepa's Hot Dogs) y medios/editorial (Todo Por Contar).
