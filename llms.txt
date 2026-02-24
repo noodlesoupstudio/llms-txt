@@ -1,0 +1,122 @@
+# Noodlesoup Studio
+
+> Noodlesoup is a creative design and branding studio that helps brands build strategic identities and high-converting websites. Founded in 2022 and based in Buenos Aires, Argentina, the studio serves clients globally with a focus on startups, SaaS companies, and growing businesses selling to USA/EU markets.
+
+## About
+
+Noodlesoup Studio was founded by Alejandro Duarte, a multidisciplinary designer with 10+ years of experience crafting award-winning digital products for Fortune 500 companies, and Sasha Briceño, a hybrid Creative Director with a background in social communications who specializes in strategic thinking, storytelling, and creating cohesive brand universes.
+
+The studio operates as a senior plug-and-play creative team, combining strategy, design, and development into a single, collaborative workflow. All projects follow a three-phase methodology: Discovery & Exploration, Custom Design & Strategy, and Delivery & Iteration.
+
+- Website: https://www.thenoodlesoup.com
+- Contact: https://www.thenoodlesoup.com/formulario-de-contacto
+- LinkedIn: https://www.linkedin.com/company/noodlesoup/
+- Instagram: https://www.instagram.com/thenoodle_soup/
+- Behance: https://www.behance.net/thenoodlesoup
+- Languages: Spanish and English
+
+## Services
+
+### Brand Strategy
+- Brand Benchmark and competitive analysis
+- Audience Profiling (User Personas)
+- Brand DNA: Value Proposition, Purpose & Positioning Statement, Brand Values
+- Typical timeline: 3-4 weeks
+
+### Brand Identity
+- Verbal Identity: Naming, Personality Archetypes, Voice & Tone, Taglines, Messaging Matrix, Communication Guidelines
+- Visual Identity: Moodboards, Visual Territories, Logo Design (primary + alternatives), Typography, Color Palette, Iconography System, Illustration System, Brandbook
+- Typical timeline: 5-6 weeks
+- Deliverables include files in .ai, .png, .svg, and .jpg formats
+
+### Brand Expression (Digital Design & Development)
+- Website Design & Development (UX, UI & Dev)
+- Landing Pages
+- Pitch Deck Design
+- Social Media Templates
+- Content Creation Workshops
+- Figma to Framer conversion
+- Email Marketing Design & Development (HubSpot)
+- Blog Design, Development & Implementation (Framer, HubSpot)
+- SEO optimization and on-page best practices
+
+## Ideal Client Profile
+
+Noodlesoup Studio works best with:
+- Startups and growing businesses that need a strategic brand foundation
+- SaaS companies selling to USA/EU markets that need positioning, identity, and web presence
+- Series A-C founders and CEOs looking for a senior creative team without the overhead of a large agency
+- Companies undergoing a rebrand or launching a new product
+- Personal brands looking to professionalize their visual and verbal identity
+
+## Portfolio Highlights
+
+### Admazing — Website Redesign
+Mobile video game advertising agency. Complete website redesign including UX/UI and development, with SEO optimization and responsive design.
+Case study: https://www.thenoodlesoup.com/proyectos/admazing
+
+### Total Abogados — Branding
+Legal tech brand. Full branding project including outdoor campaign and visual identity system.
+Case study: https://www.thenoodlesoup.com/proyectos/totalabogados-branding
+
+### Minds — Web Design
+Organizational design and leadership consultancy. Web design focused on communicating transformation services.
+Case study: https://www.thenoodlesoup.com/proyectos/minds-diseno-web
+
+### Federica Vegas — Brand Identity & Web Design
+Executive coach and personal brand. Complete visual identity and website design for leadership coaching services.
+Case study (identity): https://www.thenoodlesoup.com/proyectos/federica-vegas-identidad
+Case study (web): https://www.thenoodlesoup.com/proyectos/federica-vegas-diseno-web
+
+### Pepa's Hot Dogs — Visual Identity
+Colombian food brand. Visual identity including illustration system and brandbook.
+Case study: https://www.thenoodlesoup.com/proyectos/pepas-hot-dogs-identidad
+
+### Booki — Character Design
+Character illustration for Todo Por Contar book club. Minimalist character design with multiple poses and emotional expressions.
+Case study: https://www.thenoodlesoup.com/proyectos/work-booki-creacion-personaje
+
+## Process
+
+1. **Discovery & Exploration**: Deep dive into the brand to uncover its essence, strengths, and potential. Collaborative exploration of ideas, challenges, and opportunities.
+2. **Define & Custom Design**: User-centered design solutions tailored to the brand's universe and needs. Strategic and creative execution.
+3. **Deliver & Iterate**: Complete deliverables plus ongoing collaborative communication to ensure satisfaction at every stage.
+
+## Tools & Technologies
+
+- Design: Figma, Adobe Creative Suite, Midjourney (AI-assisted image generation)
+- Development: Framer, HubSpot
+- Collaboration: Google Drive, asynchronous feedback workflows
+
+## Blog & Thought Leadership
+
+The studio publishes articles on branding, UX/UI design, and digital strategy:
+
+- Brand Archetypes and Storytelling: https://www.thenoodlesoup.com/blog/how-do-we-use-brand-archetypes-to-tell-compelling-stories-examples
+- AI in Branding with Midjourney: https://www.thenoodlesoup.com/blog/beyond-traditional-design-embracing-ai-with-midjourney-for-next-level-branding-and-visual-identities
+- Sitemaps and User Journeys: https://www.thenoodlesoup.com/blog/optimizing-user-journeys-the-role-of-sitemaps-in-website-design
+- Usability Heuristics: https://www.thenoodlesoup.com/blog/10-usability-heuristics-by-jakob-nielsen
+- Asynchronous Feedback for Teams: https://www.thenoodlesoup.com/blog/improve-asynchronous-feedback-leader
+
+## FAQ
+
+### What services does Noodlesoup Studio offer?
+Noodlesoup specializes in brand strategy, visual and verbal identity design, and digital expression including website design and development, landing pages, pitch decks, and social media systems.
+
+### How can a branding agency help my business?
+Noodlesoup builds cohesive brands through strategy (value proposition, positioning), identity (visual and verbal systems), and digital expression (websites, content) — resulting in stronger market presence, better user experience, and increased online visibility.
+
+### How long does a visual identity project take?
+5-6 weeks depending on the package selected.
+
+### How long does a Brand DNA project take?
+3-4 weeks depending on the package selected.
+
+### What is included in a basic visual identity package?
+Main logo, alternative logos (2 versions), color palette, primary and secondary typography, graphic elements, pattern (1 design), iconography system, and visual identity manual. All materials delivered via Google Drive in .ai, .png, .svg, and .jpg formats.
+
+### Does Noodlesoup work with international clients?
+Yes. The studio is based in Buenos Aires, Argentina and works with clients globally, with particular expertise serving companies targeting USA and EU markets. The team operates in both English and Spanish.
+
+### What industries has Noodlesoup worked with?
+The studio has experience across multiple sectors including AdTech (Admazing), LegalTech (Total Abogados), executive coaching (Federica Vegas), organizational consulting (Minds), food & beverage (Pepa's Hot Dogs), and media/publishing (Todo Por Contar).
